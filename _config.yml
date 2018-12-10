@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Ashwin Vasudevan
 tagline:          'Personal Blog'
 description:      'blah.'
-url:              http://hyde.getpoole.com
+url:              http://ashwinvasudevan.github.io
 baseurl:          /
 
 author:
